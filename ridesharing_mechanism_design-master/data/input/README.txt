@@ -1,0 +1,8 @@
+这里面的文件都是xx_xx_xx.csv形式存在
+1 第一个xx表示车辆数目
+2 第二个xx表示时间槽
+3 第三个xx表示模拟次数
+其中orders_data字段是
+request_time,wait_time,pick_index,drop_index,order_distance,order_fare,detour_ratio,n_riders
+其中vehicles_data字段是
+location_index,seats,unit_cost
